@@ -1,3 +1,3 @@
 # netauto
  
-# just a simple tutorial i followed to get familiar with github ! 
+# netauto repo script sdev 2023 
